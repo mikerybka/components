@@ -1,6 +1,6 @@
 {
-  "name": "components",
-  "version": "1.0.0",
+  "name": "@mikerybka/components",
+  "version": "0.0.0",
   "type": "module",
   "exports": {
     ".": {
