@@ -25,8 +25,9 @@ type Story = StoryObj<typeof meta>;
 // More on writing stories with args: https://storybook.js.org/docs/writing-stories/args
 export const Default: Story = {
   args: {
-    path: "brass.dev/mikerybka",
-    userID: "mike",
-    sessionToken: "",
+    host: "brass.dev",
+    path: "/mikey",
+    userID: "mikey",
+    sessionToken: "7fc6f0d5f321ee7f3c3ff0ac1d623197f016489c121111206442d4e929b772b2",
   },
 };
